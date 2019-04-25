@@ -1,4 +1,5 @@
 from vision import FaceDetector
+import midi as m
 import logging
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(message)s")
